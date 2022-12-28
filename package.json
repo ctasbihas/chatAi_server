@@ -4,6 +4,7 @@
   "description": "",
   "type": "module",
   "scripts": {
+    "dev": "nodemon server",
     "server": "node server"
   },
   "keywords": [],
